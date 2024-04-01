@@ -19,7 +19,6 @@
      <item name="jumio_secondary_button_background_disabled">#F5F7FA</item>
      <item name="jumio_secondary_button_foreground">#1C2229</item>
      <item name="jumio_circle_item_background">#DCE0E4</item>
-     <item name="jumio_start_item_checkmark">#1C2229</item>
      <item name="jumio_switch_thumb_off">#EDF1F5</item>
      <item name="jumio_switch_track_off">#EDF1F5</item>
      <item name="jumio_switch_track_on">#ff1f6098</item>
@@ -45,7 +44,6 @@
      <item name="jumio_error_circle_gradient_start">#ff1f6098</item>
      <item name="jumio_error_circle_gradient_end">#ff1f6098</item>
      <item name="jumio_overlay_customization">@style/CustomOverlay</item>
-     <item name="jumio_face_animation_customization">@style/CustomFaceHelp</item>
      <item name="iproov_customization">@style/CustomIproov</item>
      <item name="nfc_customization">@style/CustomNfc</item>
 </style>
@@ -64,9 +62,6 @@
      <item name="nfc_passport_page_light">#FFFFFF</item>
      <item name="nfc_passport_foreground">#FFFFFF</item>
      <item name="nfc_phone_background">#000000</item>
-</style>
-<style name="CustomFaceHelp" parent="Jumio.Face.Animation.Customization">
-     <item name="jumio_face_animation_foreground">#000000</item>
 </style>
 <style name="CustomIproov" parent="Iproov.Customization">
      <item name="iproov_closeButton_colorTint">#FFFFFF</item>
